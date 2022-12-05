@@ -1,0 +1,12 @@
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\bin\Debug\net5.0\ProEvento.Domain.deps.json
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\bin\Debug\net5.0\ProEvento.Domain.dll
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\bin\Debug\net5.0\ref\ProEvento.Domain.dll
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\bin\Debug\net5.0\ProEvento.Domain.pdb
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\obj\Debug\net5.0\ProEvento.Domain.csproj.AssemblyReference.cache
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\obj\Debug\net5.0\ProEvento.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\obj\Debug\net5.0\ProEvento.Domain.AssemblyInfoInputs.cache
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\obj\Debug\net5.0\ProEvento.Domain.AssemblyInfo.cs
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\obj\Debug\net5.0\ProEvento.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\obj\Debug\net5.0\ProEvento.Domain.dll
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\obj\Debug\net5.0\ref\ProEvento.Domain.dll
+C:\Users\rafae\ProEvento\Back\src\ProEvento.Domain\obj\Debug\net5.0\ProEvento.Domain.pdb
